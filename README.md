@@ -1,5 +1,7 @@
 ## Bem-vindo ao meu perfil! 🐱‍👤
 
+Estou em aprendizado contínuo em busca de me tornar um especialista em segurança da informação! 🔐
+
 - 🔭 Estudante em Análise e Desenvolvimento de Sistemas na FMU (Noite)
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
 - 😄 Ele/Dele
