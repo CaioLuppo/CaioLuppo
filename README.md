@@ -1,11 +1,12 @@
 ### Bem-vindo ao meu perfil! 🐱‍👤
 
 Estou em aprendizado contínuo em busca de me tornar um especialista em segurança da informação! 🔐
-
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/677630961105764362/976237989980147772/lupsketch.png">
 - 🔭 Estudante em Análise e Desenvolvimento de Sistemas na FMU (Noite)
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
 - 😄 Ele/Dele
 
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
