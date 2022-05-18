@@ -18,6 +18,6 @@ Estou em aprendizado cont√≠nuo em busca de me tornar um especialista em seguran√
 
 <div align="center">
   <a href="https://github.com/CaioLuppo">
-  <img style='margin: 0px' align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioLuppo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img style='margin: 0px' align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuppo&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioLuppo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuppo&layout=compact&langs_count=7&theme=dark"/>
 </div>
