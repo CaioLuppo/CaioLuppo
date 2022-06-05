@@ -8,6 +8,7 @@ Estou em aprendizado cont√≠nuo em busca de me tornar um especialista em seguran√
 
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a title="GDScript" href="https://commons.wikimedia.org/wiki/File:Godot_icon.svg"><img width="35" alt="Godot icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/512px-Godot_icon.svg.png" align='center' alt="GDScript"></a>
