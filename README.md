@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil! 🐱‍👤
 
-Estou em aprendizado contínuo em busca de me tornar um especialista em segurança da informação!
+Estou em aprendizado contínuo em busca de me tornar um especialista em desenvolvimento e segurança da informação!
 Aqui você achará materiais dos meus cursos e projetos.
 - 🔭 Estudante em Análise e Desenvolvimento de Sistemas na FMU (Noite)
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
