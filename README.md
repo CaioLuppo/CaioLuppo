@@ -6,13 +6,13 @@ Aqui você achará materiais dos meus cursos e projetos.
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
 - 😄 Ele/Dele
 
-Linguagens com mais familiaridade (de mais para menos):
+Linguagens/Ferramentas com mais familiaridade (de mais para menos):
 - GDScript
 - Flutter
 - Python 
 - SQL
-- Vagrant
 - JAVA
+- Vagrant
 
 <br>
  <a href="https://github.com/CaioLuppo">
