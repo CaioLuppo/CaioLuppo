@@ -8,11 +8,11 @@ Aqui você achará materiais dos meus cursos e projetos.
 
 Linguagens/Ferramentas com mais familiaridade (de mais para menos):
 - GDScript
+- Android SDK (Java)
 - Flutter
 - Python 
 - SQL
 - JAVA
-- Vagrant
 
 <br>
  <a href="https://github.com/CaioLuppo">
