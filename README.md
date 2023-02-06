@@ -6,6 +6,8 @@ Aqui você achará materiais dos meus cursos e projetos.
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
 - 😄 Ele/Dele
 
+Em busca de estágio/trainee! LinekdIn: https://linkedin.com/in/CaioLuppo
+
 Linguagens/Ferramentas com mais familiaridade (de mais para menos):
 - GDScript
 - Android SDK (Java)
