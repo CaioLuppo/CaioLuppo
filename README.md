@@ -12,6 +12,7 @@ Linguagens/Ferramentas com mais familiaridade (de mais para menos):
 - GDScript
 - Android SDK (Java)
 - Flutter
+- Kotlin
 - Python 
 - SQL
 - JAVA
