@@ -6,6 +6,13 @@ Aqui você achará materiais dos meus cursos e projetos.
 - 🌱 Aprendendo cybersegurança e desenvolvimento!
 - 😄 Ele/Dele
 
+<br>
+ <a href="https://github.com/CaioLuppo">
+ <div align="center">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioLuppo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuppo&layout=compact&langs_count=7&theme=dark"/>
+ </div>
+  
 #### Em busca de estágio/trainee! LinekdIn: https://linkedin.com/in/CaioLuppo
 
 Linguagens/Ferramentas com mais familiaridade (de mais para menos):
@@ -17,8 +24,5 @@ Linguagens/Ferramentas com mais familiaridade (de mais para menos):
 - SQL
 - JAVA
 
-<br>
- <a href="https://github.com/CaioLuppo">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CaioLuppo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuppo&layout=compact&langs_count=7&theme=dark"/>
+
 
