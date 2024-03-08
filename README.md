@@ -2,8 +2,9 @@
 
 Estou em aprendizado contínuo em busca de me tornar um especialista em desenvolvimento mobile e segurança da informação!
 Aqui você achará materiais dos meus cursos e projetos.
-- 🔭 Estudante em Análise e Desenvolvimento de Sistemas na FMU (Noite)
-- 🌱 Aprendendo cybersegurança e desenvolvimento!
+- 💼 Desenvolvedor em Flutter na <a href="https://lojongapp.com/">Lojong</a>.
+- 🔭 Estudante em Informática para Internet no SENAC (Noite)
+- 🌱 Aprendendo desenvolvimento e outras áreas da tecnologia!
 - 😄 Ele/Dele
 
 <br>
@@ -13,16 +14,15 @@ Aqui você achará materiais dos meus cursos e projetos.
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLuppo&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
-#### Em busca de estágio/trainee! LinekdIn: https://linkedin.com/in/CaioLuppo
+#### LinekdIn: https://linkedin.com/in/CaioLuppo
 
-Linguagens/Ferramentas com mais familiaridade (de mais para menos):
+#### Linguagens/Ferramentas com mais familiaridade (de mais para menos):
+- Flutter (Dart)
+- Android (Java/Kotlin)
+- HTML/CSS/JS
 - GDScript
-- Android SDK (Java)
-- Flutter
-- Kotlin
 - Python 
 - SQL
-- JAVA
 
 
 
