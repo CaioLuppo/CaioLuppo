@@ -3,7 +3,7 @@
 Estou em aprendizado contínuo em busca de me tornar um especialista em desenvolvimento mobile e segurança da informação!
 Aqui você achará materiais dos meus cursos e projetos.
 - 💼 Desenvolvedor em Flutter na <a href="https://lojongapp.com/">Lojong</a>.
-- 🔭 Estudante em Informática para Internet no SENAC (Noite)
+- 🔭 Formado em Redes de Computadores e Análise e Desenvolvimento de Sistemas.
 - 🌱 Aprendendo desenvolvimento e outras áreas da tecnologia!
 - 😄 Ele/Dele
 
