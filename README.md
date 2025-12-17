@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil! 🐱‍👤
 
-Estou em aprendizado contínuo em busca de me tornar um especialista em desenvolvimento mobile e segurança da informação!
+Estou em aprendizado contínuo em busca de me tornar um especialista em desenvolvimento mobile!
 Aqui você achará materiais dos meus cursos e projetos.
 - 💼 Desenvolvedor em Flutter na <a href="https://lojongapp.com/">Lojong</a>.
 - 🔭 Formado em Redes de Computadores e Análise e Desenvolvimento de Sistemas.
